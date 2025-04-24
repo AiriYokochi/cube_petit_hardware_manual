@@ -1,1 +1,6 @@
 site_name: Cube petit Hardware Manual
+
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
