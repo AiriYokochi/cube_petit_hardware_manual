@@ -21,4 +21,4 @@ source ~/setup_cube_petit/shell_scripts/udev_check.sh
 
 [indexに戻る](../index.md)
 |[PC設定に戻る](../3_pc_setting.md)
-|[次のページ](./3-2_setup_pc.md)
+|[次のページ](../../4_sensor_setting/4_sensor_setting.md)

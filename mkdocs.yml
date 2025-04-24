@@ -4,3 +4,11 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
       clickable_checkbox: true
+nav:
+  - ホーム: index.md
+  - 発注: 1_order/1_order.md
+  - 組み立て: 2_assemble/2_assemble.md
+  - PC設定: 3_pc_setting/3_pc_setting.md
+  - センサ設定: 4_sensor_setting/4_sensor_setting.md
+  - モータ設定: 5_motor_setting/5_motor_setting.md
+  - デバイステスト: 6_device_test/6_device_test.md
