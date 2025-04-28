@@ -1,9 +1,10 @@
 ## 部品調達・発注(Order)
 <br>
-**最新のBOMリストを確認してください。**
 
-購入したらこちらのページでチェック
-[次のページ](./2_check.md)
+#### **購入したらこちらのページでチェック**→ [次のページ](./2_check.md)
+
+最新のBOMリストを確認してください。
+
 
 購入するものと、3Dプリンタ及びアクリル板のレーザーカッター発注するものがあります。
 
@@ -74,6 +75,9 @@
 
   - **タイヤインナー** – [Amazon](https://www.amazon.co.jp/gp/product/B0000WRXVM) – ¥780
 
+  - **瞬間セッチャク剤 (ゴムタイヤ用*]**[Amazon)](https://www.amazon.co.jp/dp/B00061HCDQ/?coliid=I3RERL5PN6Q3JI&colid=58Z7IVI1DNDH&psc=1&ref_=lv_ov_lig_dp_it)
+
+
   - **ばね蝶番** – [Amazon](https://www.amazon.co.jp/gp/product/B00KQFC47G) – ¥1,056（2個）
   
   - **リボンケーブル**  – [Amazon](https://www.amazon.co.jp/CYFPV-%E4%B8%8A%E5%90%91%E3%81%8D90%E5%BA%A6-%E3%82%AA%E3%82%B9-HDMI-%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB-%E3%83%9E%E3%83%AB%E3%83%81%E3%82%B3%E3%83%97%E3%82%BF%E3%83%BC/dp/B0732Z4GRJ)
@@ -107,7 +111,7 @@
 
   - **LiDAR LD19** – [Aliexpress](https://ja.aliexpress.com/item/1005004402233001.html) – ¥9,755
  
-  - **アイソレータ(モータコントローラ用)**  
+  - **アイソレータ(モータコントローラ用)**  - [Aliexpress)](https://ja.aliexpress.com/item/4000047053305.html?spm=a2g0o.order_list.order_list_main.27.2243585alWcENz&gatewayAdapt=glo2jpn) - ¥874 (1個)
 
 ---
 
@@ -118,11 +122,15 @@
 
   - **インシュロック** – [Monotaro]() – ¥XXX（4本）
 
+  - **モーターハブシャフト** - [Monotaro](https://www.monotaro.com/p/0568/6406/) - ￥499 (1個)
+
 
 ### ねじ
 - M4
-    - 六角穴 / 素材：黒滑り止め付き / 長さ10mm (本)
-    - 六角穴 / 極低頭 / 素材：黒滑り止め付き / 長さ10mm (本)
+    - 六角穴付ボルト / 素材：(SCM435/黒色酸化皮膜) / 全ねじ / 滑り止め付き / 長さ10[mm] (82本)：アルミフレーム組み立て用＋センサパーツ取付用
+    - 六角穴付ボルト / 素材：ステンレス / 全ねじ/ 長さ8[mm] / (8本) : 四角ブラケット取付用
+    - 六角穴付ボルト / 極低頭 / 素材：(SCM435/黒色酸化皮膜) / 長さ8[mm] (本) ：キャスター取り付け用
+
     - 六角穴 / 極低頭 / 素材:SHSS  / 長さ8mm (20本)
     - 六角穴 / 極低頭 / 素材:SHSS  / 長さ12mm (2本)
     - 六角穴 / 素材：ステンレス / 長さ35[mm] / (本)
@@ -130,21 +138,24 @@
 - M3
 - M2.5
 - M5
-    - 六角穴 / ステンレス　/ 長さ8[mm] / (1本) / Realsesne取り付け用
+    - 六角穴付ボルト / 素材：ステンレス　/ 長さ8[mm] / (1本) / Realsesne取り付け用
 - 
 ### ナット・ワッシャー
-- M4四角ナット
-- M3四角ナット
-- M4ナット
-- M4後入れナット(あると便利)
-- M3後入れナット(あると便利)
-- M4ワッシャー・スプリングワッシャー(各12個)
+- M4四角ナット・ナットホルダー(106個)：アルミフレーム組み立て用 - [Misumi](https://jp.misumi-ec.com/vona2/detail/221005480697/?KWSearch=M4%E3%83%8A%E3%83%83%E3%83%88&searchFlow=results2products&Brand=NIQ1&searchCategorySpec=10) ￥3912 3セット
+- M4後入れナット(あると便利) - [Misumi](https://jp.misumi-ec.com/vona2/detail/221005480552/?Brand=NIQ1&CategorySpec=00000173459%3A%3Ab) ￥1730 10個
+- M4ワッシャー・スプリングワッシャー(各12個) ：キャスター取り付け用 
+- M4ナット 8個
+- M
 
 ### ケーブル
 
 
 ### コネクタ
 
+**モータコントローラ用**
+- Morex 3.5mmピッチ 電線対基板用 ウエハー ライトアングルタイプ 3pin 53259-0329 (1個) - [Misumi](https://jp.misumi-ec.com/vona2/detail/222000581572/?ProductCode=53259-0329) 92円 1個
+- SMコネクタ 3pinコネクタ (1セット)　ピン・ソケット(6セット) [Amazon](https://www.amazon.co.jp/%E9%85%8D%E7%B7%9A%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%83%BC-%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF-2-54mm%E3%83%94%E3%83%83%E3%83%81%E7%AB%AF%E5%AD%90-%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%82%AD%E3%83%83%E3%83%88-%E5%8F%8E%E7%B4%8D%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E4%BB%98%E3%81%8D%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81/dp/B0D3LJ29VS/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.HXZc6HIFdKkDFJ22ZdTrHOnGpLousiWQl3FUNrhCa4FJ7wJLXsgpAlP47wqx7Z-C3vV9mZuIlVFF7wYYvYc4Z0QOEv1vROLqZ7scc6pNn1tEDHwtXktTA_qWG7X_tqsdVlMF8gVKG1K0Bc27A4anRjsUxJhAcgttXFLrKganxKsXFfFHXxQ4sSiPke2ufCJfVdT9igi44ij6qAtbhLV7_P_E24mWOXDYc9P4a63r450eqWY1Dtjc2K823VaVr8UcAzwyQmz88ZkvWQxqkSo2UhjbLvY2lrxfpH-KFVcivSc.HMN4orrJicGI0A_iKyPLC6Bad2tMfOW8JHcAMG7fd9A&dib_tag=se&keywords=jst+sm+%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF&qid=1745834578&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) ￥650, 1個
+- DCプラグ丸形(Φ5.5×2.5mm) [Monotaro](https://www.monotaro.com/p/7592/9183/?t.q=DC%93d%8C%B9%83R%83l%83N%83%5E%81%402.5) ￥209, 1個
 
 ### 熱収縮チューブ
 
