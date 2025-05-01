@@ -96,6 +96,8 @@
    
    - **PS4/5コントローラ** - [Amazon]()
 
+   - **TYPEA 延長15cm**　[Monotaro](https://www.monotaro.com/p/4623/7075/?t.q=TYPEA%20%89%84%92%B7) ¥299 1本 ※LidarのコネクタがTYPEAオスだったときのみ
+
 ---
 
 ## 🌏 Aliexpress 購入品
@@ -148,8 +150,6 @@
 
 
 
-
-
 ### ナット・ワッシャー
 - M4四角ナット・ナットホルダー(106個)：アルミフレーム組み立て用 - [Misumi](https://jp.misumi-ec.com/vona2/detail/221005480697/?KWSearch=M4%E3%83%8A%E3%83%83%E3%83%88&searchFlow=results2products&Brand=NIQ1&searchCategorySpec=10) ￥3912 3セット
 - M4後入れナット(あると便利) - [Misumi](https://jp.misumi-ec.com/vona2/detail/221005480552/?Brand=NIQ1&CategorySpec=00000173459%3A%3Ab) ￥1730 10個
@@ -160,6 +160,9 @@
 
 ### ケーブル
 
+**モータコントローラ用**
+- リボンケーブル [Monotaro](https://www.monotaro.com/p/3496/3345/?t.q=%83%8A%83%7B%83%93%83P%81%5B%83u%83%8B) ￥1,498 1個
+- ケーブル AWG20 / 赤緑黒 / [Monotaro](https://www.monotaro.com/p/6242/7059/) ¥899 1個
 
 ### コネクタ
 
@@ -169,7 +172,17 @@
 - DCプラグ丸形(Φ5.5×2.5mm) [Monotaro](https://www.monotaro.com/p/7592/9183/?t.q=DC%93d%8C%B9%83R%83l%83N%83%5E%81%402.5) ￥209, 1個
 
 ### 熱収縮チューブ
+**モータコントローラ用**
+- 透明 / Φ21 / [Monotaro](https://www.monotaro.com/p/5513/6506/) ¥389 1個
+- 赤と黒 / Φ6.5 / [Monotaro](https://www.monotaro.com/p/3559/8166/?t.q=%94M%8E%FB%8Fk%83%60%83%85%81%5B%83u%81%40%90%D4) ¥999 1個
 
+
+### 工具
+
+- はんだセット
+- ニッパー
+- ワイヤーストリッパー
+- ヒートガン
 
 
 ## 🛒 Misumi 購入品
