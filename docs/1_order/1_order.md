@@ -170,7 +170,8 @@
 
 **モータコントローラ用**
 - Morex 3.5mmピッチ 電線対基板用 ウエハー ライトアングルタイプ 3pin 53259-0329 (1個) - [Misumi](https://jp.misumi-ec.com/vona2/detail/222000581572/?ProductCode=53259-0329) 92円 1個
-- SMコネクタ 3pinコネクタ (1セット)　ピン・ソケット(6セット) [Amazon](https://www.amazon.co.jp/%E9%85%8D%E7%B7%9A%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%83%BC-%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF-2-54mm%E3%83%94%E3%83%83%E3%83%81%E7%AB%AF%E5%AD%90-%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%82%AD%E3%83%83%E3%83%88-%E5%8F%8E%E7%B4%8D%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E4%BB%98%E3%81%8D%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81/dp/B0D3LJ29VS/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.HXZc6HIFdKkDFJ22ZdTrHOnGpLousiWQl3FUNrhCa4FJ7wJLXsgpAlP47wqx7Z-C3vV9mZuIlVFF7wYYvYc4Z0QOEv1vROLqZ7scc6pNn1tEDHwtXktTA_qWG7X_tqsdVlMF8gVKG1K0Bc27A4anRjsUxJhAcgttXFLrKganxKsXFfFHXxQ4sSiPke2ufCJfVdT9igi44ij6qAtbhLV7_P_E24mWOXDYc9P4a63r450eqWY1Dtjc2K823VaVr8UcAzwyQmz88ZkvWQxqkSo2UhjbLvY2lrxfpH-KFVcivSc.HMN4orrJicGI0A_iKyPLC6Bad2tMfOW8JHcAMG7fd9A&dib_tag=se&keywords=jst+sm+%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF&qid=1745834578&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) ￥650, 1個
+- SMコネクタ 3pinコネクタ (1セット)　ピン・ソケット(6セット) [Amazon](https://www.amazon.co.jp/%E9%85%8D%E7%B7%9A%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%83%BC-%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF-2-54mm%E3%83%94%E3%83%83%E3%83%81%E7%AB%AF%E5%AD%90-%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%82%AD%E3%83%83%E3%83%88-%E5%8F%8E%E7%B4%8D%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E4%BB%98%E3%81%8D%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81/dp/B0D3LJ29VS/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.HXZc6HIFdKkDFJ22ZdTrHOnGpLousiWQl3FUNrhCa4FJ7wJLXsgpAlP47wqx7Z-C3vV9mZuIlVFF7wYYvYc4Z0QOEv1vROLqZ7scc6pNn1tEDHwtXktTA_qWG7X_tqsdVlMF8gVKG1K0Bc27A4anRjsUxJhAcgttXFLrKganxKsXFfFHXxQ4sSiPke2ufCJfVdT9igi44ij6qAtbhLV7_P_E24mWOXDYc9P4a63r450eqWY1Dtjc2K823VaVr8UcAzwyQmz88ZkvWQxqkSo2UhjbLvY2lrxfpH-KFVcivSc.HMN4orrJicGI0A_iKyPLC6Bad2tMfOW8JHcAMG7fd9A&dib_tag=se&keywords=jst+sm+%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF&qid=1745834578&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+- (スピーカ用) SMコネクタ 2pinコネクタ ピン・ソケット(2セット) 上記に含まれる
 - DCプラグ丸形(Φ5.5×2.5mm) [Monotaro](https://www.monotaro.com/p/7592/9183/?t.q=DC%93d%8C%B9%83R%83l%83N%83%5E%81%402.5) ￥209, 1個
 
 ### 熱収縮チューブ
@@ -185,6 +186,7 @@
 - ニッパー
 - ワイヤーストリッパー
 - ヒートガン
+- SMコネクタ・MOREXコネクタ用圧着工具
 
 
 ## 🛒 Misumi 購入品
