@@ -111,9 +111,11 @@
 
   - **モータコントローラ** – [Aliexpress](https://ja.aliexpress.com/item/1005001417061496.html) – ¥13,924（2個）
 
-  - **LiDAR LD19** – [Aliexpress](https://ja.aliexpress.com/item/1005004402233001.html) – ¥9,755
- 
+  - **LiDAR LD19** – [Aliexpress](https://ja.aliexpress.com/item/1005006030979431.html?spm=a2g0o.order_list.order_list_main.66.14f6585a2rnhFu&gatewayAdapt=glo2jpn) – ¥12,388
+ https://ja.aliexpress.com/item/1005006030979431.html?spm=a2g0o.order_list.order_list_main.66.14f6585a2rnhFu&gatewayAdapt=glo2jpn
   - **アイソレータ(モータコントローラ用)**  - [Aliexpress)](https://ja.aliexpress.com/item/4000047053305.html?spm=a2g0o.order_list.order_list_main.27.2243585alWcENz&gatewayAdapt=glo2jpn) - ¥874 (1個)
+
+   - **HDMIアダプター** [Aliexpress](https://ja.aliexpress.com/item/1005002393642419.html?spm=a2g0o.productlist.main.2.7d9d3acaOyelWu&algo_pvid=472358c4-d184-4d2d-9f07-919f8d3d8962&algo_exp_id=472358c4-d184-4d2d-9f07-919f8d3d8962-1&pdp_ext_f=%7B%22order%22%3A%2227%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21JPY%21406%21406%21%21%212.79%212.79%21%40212a6e3217465902664774142ee19d%2112000020499314983%21sea%21JP%21127817121%21X&curPageLogUid=piLgKpnC19q9&utparam-url=scene%3Asearch%7Cquery_from%3A) ¥406 1個
 
 ---
 
@@ -135,15 +137,18 @@
     - 六角穴付ボルト/ 素材：ステンレス / 全ねじ / 長さ16[mm] (8本)：足回り取り付け用
     - 六角穴付ボルト/ 素材：(SCM435/黒色酸化皮膜) / 半ねじ / 長さ35[mm] (8本)：足回り取り付け用
 
-    - 六角穴 / 極低頭 / 素材:SHSS  / 長さ8mm (20本)
-    - 六角穴 / 極低頭 / 素材:SHSS  / 長さ12mm (2本)
-    - 六角穴 / 素材：ステンレス / 長さ35[mm] / (本)
+    - 六角穴付ボルト / 極低頭/ 素材:SHSS  / 長さ10[mm] (2本) [Monotaro](https://www.monotaro.com/p/4927/7864/) ￥749
+    - 六角穴付ボルト / 極低頭/ 素材:SHSS  / 長さ16[mm] (2本) [Monotaro](https://www.monotaro.com/p/4927/7882/) ￥839
+    - 六角穴付ボルト / 極低頭/ 素材:SHSS  / 長さ8[mm] (20本) [](https://www.monotaro.com/p/4927/7907/) 2セット ¥1418 
+
+
     - 
 - M3
     -  六角穴付ボルト / 素材：(SCM435/黒色酸化皮膜) / 全ねじ / 長さ8[mm] (6本)：モータ取り付け用
 
 - M2.5
-    - 六角穴付きボルト / 素材：(SCM435/黒色酸化皮膜) / 全ねじ / 長さ5[mm] (3本)：LiDAR取り付け用
+    - 六角穴付きボルト / 素材：(SCM435/黒色酸化皮膜) / 全ねじ / 長さ6[mm] (3本)：LiDAR取り付け用
+    - 六角穴付きボルト / 素材：(SCM435/黒色酸化皮膜) / 全ねじ / 長さ6[mm] (2本)：画面取り付け用
 　
 - M6 ( or 1/4インチねじ)　※どちらでも可
     - 六角穴付きボルト / 素材：ステンレス / 全ねじ /　8[mm] (1本):深度カメラ用
@@ -158,7 +163,9 @@
 - M4スプリングワッシャー(8個) ：足回り取り付け用 
 - M4ナット 8個
 - M4ナット 8個 : 足回り取り付け用
+- M4ナット 6個 : 画面取り付け用
 - M2.5ナット 3個: LiDAR取り付け用
+            2個: 画面取り付け用
 
 ### ケーブル
 
