@@ -7,21 +7,16 @@
 <br>
 ---
 
-### 必要な工具
-
----
-
----
 ### 手順
 ---
 
 ##### [1.顔](./2-1.details/2-1.face.md)
 顔を組み立てます
 
-##### [2.アルミフレーム](./2-1.details/2-2.%20almi_frame.md)
+##### [2.アルミフレーム](./2-1.details/2-2.almi_frame.md)
 アルミフレームを組み立てます
 
-##### [3.キャスター](./2-1.details/2-3.%20caster.md)
+##### [3.キャスター](./2-1.details/2-3.caster.md)
 キャスターをアルミフレームに取り付けます
 
 ##### [4.タイヤ](./2-1.details/2-4.tyya.md)
@@ -37,11 +32,16 @@
 センサをアルミフレームに取り付けます
 
 
-**Pages**
-[1.部品調達・発注(order)](./1_order/1_order.md)
-[2.組み立て(assemble)](./2_assemble/2_assemble.md)
-[3.PC設定(pc_setting)](./3_pc_setting/3_pc_setting.md)
-[4.センサ設定(sensor_setting)](./4_sensor_setting/4_sensor_setting.md)
-[5.モーター設定(motor_setting)](./5_motor_setting/5_motor_setting.md)
+##### [8.スピーカの配線](./2-1.details/2-8.speaker_connector.md)
+スピーカをボディに取り付けます
 
+---
+
+**Pages**
+[1.部品調達・発注(order)](../1_order/1_order.md)
+[2.組み立て(assemble)](../2_assemble/2_assemble.md)
+[3.PC設定(pc_setting)](../3_pc_setting/3_pc_setting.md)
+[4.センサ設定(sensor_setting)](../4_sensor_setting/4_sensor_setting.md)
+[5.モーター設定(motor_setting)](..//5_motor_setting/5_motor_setting.md)
+[6.デバイステスト(device_test)](../6_device_test/6_device_test.md.md)
 ---
