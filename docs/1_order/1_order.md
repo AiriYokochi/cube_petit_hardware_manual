@@ -65,9 +65,11 @@
 
   - **ディスプレイ　5inch、左右にHDMI端子がついているもの** – [Amazon](https://www.amazon.co.jp/gp/product/B07FDN3M8H) – ¥5,899
 
-  - **USBハブ① 4portバスパワー** – [Amazon](https://www.amazon.co.jp/gp/product/B00Y27DEVO) – ¥990
+  - **USBハブ① 4portバスパワー(ELECOM)** – [Amazon](https://www.amazon.co.jp/gp/product/B00Y27DEVO) – ¥990
 
-  - **USBハブ② 4portバスパワー** – [Amazon](https://www.amazon.co.jp/gp/product/B07XPMR5CW) – ¥1,180
+  - **USBハブ② 4portバスパワー(バッファロー)** – [Amazon](https://www.amazon.co.jp/gp/product/B07XPMR5CW) – ¥1,180
+
+  - **USBハブ③ 4portバスパワー(ANKER)** – [Amazon](https://www.amazon.co.jp/Anker-%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%82%B9%E3%83%AA%E3%83%A0-%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%80%904%E3%81%A4%E3%81%AE-MacBook-Surface/dp/B00Y27DEVO/ref=sr_1_6?adgrpid=53440998415&dib=eyJ2IjoiMSJ9.g-OtlXxltjXCvr2yLa8EneVP62AEVBWFY62ue_LzY9F62nxEk7fFx4SeJkXW2jcX6NcvPDSGf9Kjbm6SRLGh1DcTsRfGS27w27R4oFP8s6lFzLwFy8PKlYrNTAb7L6hQHIyqGUFMJlDgT2SbBMwjhaxFSvT9ofHR0CzsyKAPcp_P1fFLy4_A-mPbqJ9fUvSQtzaWNmRdvMDLso-hS2-lMFRWvQ5VekMHAVOwz6wI4rXQB2Ze4Uh-BEdJ4ZEhVeQBv0BTeaQ4AdpiElMLkpMdUaF1b1lZRGBvniMzD4YKYJM.6ifKXf6Wh_2oYKT-u6ULFmewMPF3k_tYKkbhh1cgMlo&dib_tag=se&hvadid=651256581251&hvdev=c&hvlocphy=9196894&hvnetw=g&hvqmt=b&hvrand=4455874207302502329&hvtargid=kwd-333134859569&hydadcr=9354_13660242&jp-ad-ap=0&keywords=amazon%2Busb%E3%83%8F%E3%83%96&mcid=ac43c52aa9a73a50a9dd61431bc8e1d1&qid=1747021804&sr=8-6&th=1) – ￥990
 
   - **SoundBlaster** – [Amazon](https://www.amazon.co.jp/Creative-Blaster-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9-%E3%83%8F%E3%82%A4%E3%83%AC%E3%82%BE%E5%86%8D%E7%94%9F-SB-PLAY3/dp/B06XZY8JTZ) – ¥1,645
 
@@ -84,23 +86,24 @@
 
   - **ばね蝶番** – [Amazon](https://www.amazon.co.jp/gp/product/B00KQFC47G) – ¥1,056（2個）
   
-  - **リボンケーブル**  – [Amazon](https://www.amazon.co.jp/CYFPV-%E4%B8%8A%E5%90%91%E3%81%8D90%E5%BA%A6-%E3%82%AA%E3%82%B9-HDMI-%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB-%E3%83%9E%E3%83%AB%E3%83%81%E3%82%B3%E3%83%97%E3%82%BF%E3%83%BC/dp/B0732Z4GRJ) ￥1,624
+  - **リボンケーブル**  – [Amazon](https://amzn.asia/d/iaFem4J) ￥1,161
   
-  - **リボンケーブル**  – [Amazon](https://www.amazon.co.jp/dp/B01BXXK4CQ)￥1,624
-    
+   
   - **12Vモバイルバッテリ×2**  – [Amazon](https://www.amazon.co.jp/%E3%82%B5%E3%83%B3%E3%83%AF%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC-%E8%87%AA%E5%8B%95OFF%E6%A9%9F%E8%83%BD%E3%81%AA%E3%81%97-%E6%97%A5%E6%9C%AC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E8%A3%BD%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E9%9B%BB%E6%B1%A0-700-BTL049/dp/B0BLTKH1R3) ￥9,970
 
-   - **USBケーブルC-C PD用 0.3[m]** - [Amazon](https://www.amazon.co.jp/%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0-MacBook-Android-%E3%80%90iPhone-MPA-CCECSS03BK/dp/B0DBHJPVY5/ref=sr_1_4?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dib=eyJ2IjoiMSJ9.LQ7VCl7Ghz1MKG3iglNOW__Ik9JJPlTC5JSo51OWR5I0YJFDZ74pHqHhPGQrHIUKx7Zr85B0oPOOZXEpZ-jcNvpRE_gmlmV33Gmz3vCH6Neqe5Wni_hiTW3_d0fjkz4G7mrYztHDedMMGoMHDeVGpRPu_OUDSmApiK3ZSHs6-M6wiaj-g6vewg2MbrKW_5EwHVz6_-xIVFfY3OgQ2L68HK9DL2IbraKBotaTm7HKABY-aURVro_gXD4Q_6k5IVJET1u7le6G8AThn12MyR_Wr4GjlVZ5m7e25RPbOQgyi3c._8WI1iXu6shZZXJuylkAubGpHhKOaGuftbvWYdLLYQk&dib_tag=se&keywords=USB%E3%82%B1%E3%83%BC%E3%83%96%E3%83%ABC-C%2BPD%E7%94%A8%2B0.3%5Bm%5D&qid=1746598827&s=electronics&sr=1-4&th=1) ￥899
+   - **USBケーブルC-C PD用 0.3[m]** - [Amazon](https://amzn.asia/d/amBpY5x) ￥899
 
-   - **USBケーブルmicroB-A LiDAR, Display用  0.3[m] x3** - [Amazon](https://www.amazon.co.jp/%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0-USB%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB-microB-0-3m-U2C-JAMB03BK/dp/B00XKB9TXA/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=Y2868Q6GRG0J&dib=eyJ2IjoiMSJ9.ZmKrJctwr6h6JIWCtxVYQ3NLFydJqbS0MKmmRQtWE9jc7zVj6Vh5VSNHtWG7NVVNgETcOv2SIEL7Ac_-lQVvXX6Dptwo9yCUkCWGnTzgJhphWOlQSFM4SDH0sD3gHI57K7jvK3zBMsY_Hsv7tQCTraePHuv4PX_MGKN0wgWDfD1q4Hc06t8m-155pqrQPnWaceG7Xbyc8i51WaYrCES82kuILlg8MCwQcIDVnjly9GXYifIDl46B1LA-isPEU8zreEzwKaL6xVIWw23U9tyV0k6VSFKv1F-WZhc-qcM1smw.JxVPApy7KjsytxP4aztcg7Rb1q82gjQxrGvwhqFu62Y&dib_tag=se&keywords=USB%E3%82%B1%E3%83%BC%E3%83%96%E3%83%ABmicroB-A+0.3%2C&qid=1746598912&s=electronics&sprefix=usb%E3%82%B1%E3%83%BC%E3%83%96%E3%83%ABmicrob-a+0.3+%2Celectronics%2C138&sr=1-1)  ¥1128 3本
+   - **USBケーブルmicroB-A Display用  0.15[m] x1** - [Amazon](https://amzn.asia/d/09TgPOd)  ¥379 1本
    
-   - **USBケーブルC-A AIカメラ、深度カメラ、MotorController用  0.3[m] x2** - [Amazon](https://www.amazon.co.jp/CLEEFUN-%E6%80%A5%E9%80%9F%E5%85%85%E9%9B%BB%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB-%E9%AB%98%E9%80%9F%E3%83%87%E3%83%BC%E3%82%BF%E8%BB%A2%E9%80%81-%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B3%E7%B7%A8%E3%81%BF-%E3%81%AA%E3%81%A9type-c%E6%A9%9F%E7%A8%AE%E5%AF%BE%E5%BF%9C/dp/B08MWFSNF2/ref=sr_1_7_sspa?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2RDK8269FUSFW&dib=eyJ2IjoiMSJ9.7WWBrqbRXtpwGJ4VjAIXUHKah1XzhfrVoS4fiF3rwQB-dWlpuuEKmUqSadK5ZrJeuNlThjRlsZ7Sh4cc99O7uCTz7j0zpBytk-jMfE6FvV7QFgQEuhN59WIzVFEbx-Gi2E-47Yy7UpyzGynL9EF8BZ1jmnwtaLktcOAInm8fi5PGNoUaTFGiK8dg5GIe9k-MqXXi_wdhmS5ggeelmLyLlKv2_rbR5wxjTSnutpi3FebvdbB1rbhmFsXEKSPa3cQ6VpRVWJbVah_wKqzg4sovyqxT2MMFQJTMfA1WxasfSrw.ZSzdPbTYwfZrrfdziUSrQCEAWBVojCsjItW7xKfWnQs&dib_tag=se&keywords=usb%2B%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%2Ba-c%2B0.3m&qid=1746599000&s=electronics&sprefix=usb%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%2Ba-c%2B0.3m%2Celectronics%2C142&sr=1-7-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1)　¥1498 (2個)
+   - **USBケーブルmicroB-A LiDAR用  0.30[m] x1** - [Amazon](https://amzn.asia/d/8nq8SEj) ¥376 1本
+
+   - **USBケーブルC-A AIカメラ、深度カメラ、MotorController用  0.3[m] x3** - [Amazon](https://amzn.asia/d/1dJWg35)　¥1498 (2個)
    
    - **USBケーブルA-A  0.3[m]** - [Amazon](https://www.amazon.co.jp/GHNTJAP-5Gbps%E9%AB%98%E9%80%9F%E3%83%87%E3%83%BC%E3%82%BF%E8%BB%A2%E9%80%81-%E9%AB%98%E8%80%90%E4%B9%85%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B3-DVD%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC-%E3%83%A2%E3%83%87%E3%83%A0%E3%81%AA%E3%81%A9%E3%81%A8%E4%BA%92%E6%8F%9B%E6%80%A7%E3%81%82%E3%82%8A/dp/B0CHSM2WCQ/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=28V31MQDJRWH6&dib=eyJ2IjoiMSJ9.FN4l1slZqGxs8W0TFlvnegYRly26vIXMPbarP-19oDip__3hp4D7nmTV5hw9iip5ieUulg5smrX8C9AjQmNkKGRb8O-DJvCS048US123uomFsy-HGUokBJ5XV02-q9xY9Qiimgnwz3yo0wbvUv9m17yB_BvqKqw8XsXomYQO-8UzL2WDZf6I2a-H9G4m42l-.wc6QT4VZ1AIzqcSnYue7REtVEJNmR8S9zsQfIvxt29c&dib_tag=se&keywords=SB%E3%82%B1%E3%83%BC%E3%83%96%E3%83%ABA-A%2B0.3%5Bm%5D&qid=1746599061&s=electronics&sprefix=sb%E3%82%B1%E3%83%BC%E3%83%96%E3%83%ABa-a%2B0.3%2Bm%2B%2Celectronics%2C147&sr=1-2&th=1)　¥699
    
    - **PS4/5コントローラ** - [Amazon](https://www.amazon.co.jp/%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88-%E3%80%90%E7%B4%94%E6%AD%A3%E5%93%81%E3%80%91DualSense-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC-CFI-ZCT1J/dp/B08GG1QSRR/ref=sr_1_6?crid=CSLPH4LY11O8&dib=eyJ2IjoiMSJ9.x1eTa2yd0xcmjncbdBZ4UfHk7H7YBJwEEv0EkGo1Tt-6KjL3CXOgmal43j5ge7d85816Rq3M9VBxv-XKX3CuM_ZkoUJIFRGo2BUZ7fRjPDClirGLlENha6zCzQCzspEtumS8GYkdWZzfXtY9nXzUEXmLN3vHB3TxzWJYZj26ICM7SPnSR2LOFEDmScNYrVYXh1M-B59FEYtvXLK1Yd38dzwU7zd7SsyPKOF8_326dPGNs26KLE09dwXcMZ5bQJvzgIwjkcygBSxo9rgCNV_Q4gjcsJ2oJP184sqMKzXACxU.iLOlxQRamXt3cr281lxhNMk2TO2gOMOUt_F3d2miumU&dib_tag=se&keywords=ps5+%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC+%E7%B4%94%E6%AD%A3&qid=1746599126&sprefix=ps5+%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%2Caps%2C161&sr=8-6) ¥10,613
 
-  - **SMコネクタ 3pinコネクタ (1セット)　ピン・ソケット(6セット)** [Amazon](https://www.amazon.co.jp/%E9%85%8D%E7%B7%9A%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%83%BC-%E3%83%8F%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF-2-54mm%E3%83%94%E3%83%83%E3%83%81%E7%AB%AF%E5%AD%90-%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%82%AD%E3%83%83%E3%83%88-%E5%8F%8E%E7%B4%8D%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E4%BB%98%E3%81%8D%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81/dp/B0D3LJ29VS/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.HXZc6HIFdKkDFJ22ZdTrHOnGpLousiWQl3FUNrhCa4FJ7wJLXsgpAlP47wqx7Z-C3vV9mZuIlVFF7wYYvYc4Z0QOEv1vROLqZ7scc6pNn1tEDHwtXktTA_qWG7X_tqsdVlMF8gVKG1K0Bc27A4anRjsUxJhAcgttXFLrKganxKsXFfFHXxQ4sSiPke2ufCJfVdT9igi44ij6qAtbhLV7_P_E24mWOXDYc9P4a63r450eqWY1Dtjc2K823VaVr8UcAzwyQmz88ZkvWQxqkSo2UhjbLvY2lrxfpH-KFVcivSc.HMN4orrJicGI0A_iKyPLC6Bad2tMfOW8JHcAMG7fd9A&dib_tag=se&keywords=jst+sm+%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF&qid=1745834578&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)￥650
+  - **SMコネクタ 3pinコネクタ (1セット)　ピン・ソケット(6セット)** [Amazon](https://amzn.asia/d/b40fbM0)￥650
   - (スピーカ用) SMコネクタ 2pinコネクタ ピン・ソケット(2セット) 上記に含まれる
 
 **自由**
@@ -110,6 +113,7 @@
   - **マイク** – [Amazon](https://www.amazon.co.jp/RODE-Microphones-%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%95%E3%82%A9%E3%83%B3%E3%82%BA-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%83%9E%E3%82%A4%E3%82%AF%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-WIGOIISINGLE/dp/B09PXCZ247) – ¥30,909
   - **モバイルバッテリ PD 140W 20V出力のもの** – [Amazon](https://www.amazon.co.jp/UGREEN-%E4%BD%8E%E9%9B%BB%E6%B5%81%E3%83%A2%E3%83%BC%E3%83%89%E3%83%BB%E3%83%91%E3%82%B9%E3%82%B9%E3%83%AB%E3%83%BC%E6%A9%9F%E8%83%BD%E6%90%AD%E8%BC%89-%E5%8D%98%E3%83%9D%E3%83%BC%E3%83%88100W%E9%AB%98%E5%87%BA%E5%8A%9B-USB-C%E5%85%A5%E5%8A%9B65%EF%BC%B7%E5%AF%BE%E5%BF%9C-USB-C%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E4%BB%98%E3%81%8D/dp/B0BJQ7F16T) – ¥13,580
   - **WiFiルータ** – [Amazon](https://www.amazon.co.jp/GL-iNet-GL-MT3000-%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABIPv6%E5%AF%BE%E5%BF%9C-%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88AX3000-Wireguard/dp/B0BQ1YRH9F) – ¥13,999
+
   - **ワイヤレスキーボード** – [Amazon](https://www.amazon.co.jp/Logicool-%E3%83%AD%E3%82%B8%E3%82%AF%E3%83%BC%E3%83%AB-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9-%E3%82%BF%E3%83%83%E3%83%81%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-K400pBK/dp/B00ZQNBTQK) – ¥5,600
 
 
@@ -147,6 +151,10 @@
   - **インシュロック** – [Monotaro](https://www.monotaro.com/p/3954/8731/?t.q=%83C%83%93%83V%83%85%83%8D%83b%83N%20%95%9D2.5) – ¥299（4本）
 
   - **モーターハブシャフト** - [Monotaro](https://www.monotaro.com/p/0568/6406/) - ￥499 (1個)
+
+  - **強力両面テープ** ([Monotaro](https://www.monotaro.com/p/7718/0173/?t.q=3M%2019mm%20%97%BC%96%CA%83e%81%5B%83v)) ￥1,498 1個
+
+  - **養生など適当なテープ** [Monotaro](https://www.monotaro.com/p/0845/9193/?t.q=%97%7B%90%B6%83e%81%5B%83v%81%40%94%92) ￥459 1個
 
 
 ### ねじ

@@ -18,3 +18,10 @@
 
 ---
 [indexに戻る](../index.md)
+
+以下のコマンドを叩いて[OK]の文字が出れば合っています。
+```
+source ~/setup_cube_petit/shell_scripts/udev_check.sh
+```
+
+---
